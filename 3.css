@@ -1,0 +1,23 @@
+h1{
+    color:white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: center;
+    
+}
+
+
+
+body{
+    background-image:url(paris.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    margin-right: 30%;
+}
+img{
+    width:80px
+    height:150px;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
